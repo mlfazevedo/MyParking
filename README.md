@@ -1,1 +1,3 @@
-# MyPerking
+# MyParking
+Server Raspberry Pi 2
+Simple Park system with 2 leds and a webapp (php) to control... 
